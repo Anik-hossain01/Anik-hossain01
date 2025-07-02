@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hello! I'm Anik
 
-<!--
-**Anik-hossain01/Anik-hossain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about working with data and solving real-world problems using powerful tools like **Excel** and **SQL**.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- 💼 Advanced Excel (Formulas, Dashboards, Pivot Tables, VBA)
+- 🗃️ SQL (Data querying, joins, subqueries, data cleaning)
+- 📈 Data Analysis & Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Power BI & Data Visualization
+- Python for data analysis (Pandas, NumPy)
+
+
+### 📫 Let's Connect
+- 📧 Email: aniktrader01@gmail.com
+
+🧠 Always curious | 📊 Data-driven | 🤝 Open to collaboration
+---THANK YOU
