@@ -13,7 +13,7 @@ I'm passionate about working with data and solving real-world problems using pow
 
 
 ### 📫 Let's Connect
-- 📧 Email: aniktrader01@gmail.com
+- 📧 Email:anik.codes1@gmail.com
 
 🧠 Always curious | 📊 Data-driven | 🤝 Open to collaboration
 ---THANK YOU
